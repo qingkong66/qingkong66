@@ -4,9 +4,9 @@
 👾 趣味迷宫（贡献图）
 
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/你的用户名/你的用户名/output/pacman-contribution-graph.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/你的用户名/你的用户名/output/pacman-contribution-graph-dark.svg">
-  <img alt="吃豆人风格贡献图" src="https://raw.githubusercontent.com/你的用户名/你的用户名/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/qingkong66/qingkong66/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/qingkong66/qingkong66/output/pacman-contribution-graph-dark.svg">
+  <img alt="吃豆人风格贡献图" src="https://raw.githubusercontent.com/qingkong66/qingkong66/output/pacman-contribution-graph.svg">
 </picture>
 
 
