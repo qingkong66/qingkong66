@@ -1,22 +1,22 @@
 
 
-## ❤️ DeepSeek社区贡献者
+## ❤️ DeepSeek Community Contributors
 
-| GitHub 用户名 | 贡献方向 |
+| GitHub Username | Contributions |
 | :--- | :--- |
-| **Gabrobals** | 设计、代码、工具 | 
-| **MikeyBeez** | 设计、代码、工具、文档|
-| **jagmarques** | 设计、工具|
-| **HIJO790401** | 设计 |
-| **lhlpl** | 基础设施、设计、代码|
-| **Jam-55-d** | 基础设施、设计、代码、产品|
-| **maratsultanov2** | 设计、代码、产品|
-| **dancinlife** | 代码、设计 |
-| **m92ss** | 测试 |
-| **qwas982** | 基础设施、设计 |
-| **AmoebaFPS** | 代码、设计 |
-| **P0luz** | 工具 |
-| **qingkong66** | 社区发起与测试 |
+| **Gabrobals** | Design, Code, Tools |
+| **MikeyBeez** | Design, Code, Tools, Documentation |
+| **jagmarques** | Design, Tools |
+| **HIJO790401** | Design |
+| **lhlpl** | Infrastructure, Design, Code |
+| **Jam-55-d** | Infrastructure, Design, Code, Product |
+| **maratsultanov2** | Design, Code, Product |
+| **dancinlife** | Code, Design |
+| **m92ss** | Testing |
+| **qwas982** | Infrastructure, Design |
+| **AmoebaFPS** | Code, Design |
+| **P0luz** | Tools |
+| **qingkong66** | Community Founder & Testing |
 
 ---
 
